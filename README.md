@@ -34,5 +34,5 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/user-profiles-management.git
+git clone https://github.com/lohi345/user-profiles-management.git
 cd user-profiles-management
