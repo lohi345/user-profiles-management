@@ -1,45 +1,38 @@
-# User Management App
+# 👥 User Profiles Management
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/your-username/your-repo)  
-
-A **React-based User Management Application** to **add, view, edit, and manage users** with `localStorage` persistence.
+A responsive web application for managing user profiles, built using **React** and **Bootstrap**.  
+This project implements all required features as per the provided Figma design, including form handling, responsive layout, and local data storage.
 
 ---
 
-## 🌟 Features
+## 🚀 Features
 
-- Add users with **name validation** (letters only) and **phone validation** (digits only).  
-- View all users in a **responsive table**.  
-- Edit and update **user profiles**.  
-- **Persistent storage** using `localStorage`.  
-- **Dashboard** with quick access cards.  
-- **Responsive Navbar** with icons.
-
----
-
-## 💻 Tech Stack
-
-- React.js, React Router  
-- Bootstrap 5  
-- React Hooks (`useState`, `useEffect`)  
-- localStorage  
-- react-icons  
+- 🧍 Add, edit, and delete user profiles  
+- 💾 Data stored locally in the browser (using Local Storage)  
+- ⚡ Responsive UI built with Bootstrap grid system  
+- 🎨 Follows Figma spacing, typography, and component styling  
+- 🔄 Includes load and error states for better user experience  
+- 🧩 Built with modular, reusable React components  
 
 ---
 
-## 🌐 Live Demo
-Check out the live app here:  
-[**User Management App Live Demo**](https://Karripravallika.github.io/user-management-app)
+## 🛠️ Technologies Used
+
+| Category | Tools |
+|-----------|--------|
+| Frontend Framework | **React (Vite)** |
+| CSS Framework | **Bootstrap 5** |
+| Language | **JavaScript (ES6)** |
+| Version Control | **Git & GitHub** |
+| Local Storage | **Browser LocalStorage API** |
 
 ---
 
+## 🧑‍💻 Setup Instructions
 
-## 🚀 Getting Started
+Follow these steps to run the project locally:
 
-### Clone the repository
-
+### 1️⃣ Clone the Repository
 ```bash
-git clone <your-github-repo-url>
-cd user-profile-management
+git clone https://github.com/<your-username>/user-profiles-management.git
+cd user-profiles-management
